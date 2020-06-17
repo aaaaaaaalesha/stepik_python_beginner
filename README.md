@@ -1,6 +1,6 @@
 # stepik_python_beginner
 
-#### Репозиторий содержит краевые задания по программированию с курса «Python для начинающих»
+#### Репозиторий содержит контрольные задания по программированию с курса «Python для начинающих»
 
 ![Python](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)
 
