@@ -24,6 +24,6 @@
 
 **Ссылка на курс:** 
 
-![Python для начинающих](https://stepik.org/course/58852/syllabus)
+[Python для начинающих](https://stepik.org/course/58852/syllabus)
 
 Copyright (c) 2020 aaaaaaaalesha
