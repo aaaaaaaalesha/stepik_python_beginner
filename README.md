@@ -1,6 +1,6 @@
 # stepik_python_beginner
 
-#### Репозиторий содержит контрольные задания по программированию с курса «Python для начинающих»
+#### Репозиторий содержит контрольные задания по программированию с курса «"Поколение Python": курс для начинающих»
 
 ![Python](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)
 
@@ -26,6 +26,6 @@
 
 **Ссылка на курс:** 
 
-[Python для начинающих](https://stepik.org/course/58852/syllabus)
+["Поколение Python": курс для начинающих](https://stepik.org/course/58852/syllabus)
 
 Copyright (c) 2020 aaaaaaaalesha
