@@ -1,3 +1,5 @@
+# Copyright 2020 aaaaaaaalesha
+
 import random as rnd
 
 answers = ["Бесспорно", "Мне кажется - да", "Пока неясно, попробуй снова", "Даже не думай",
